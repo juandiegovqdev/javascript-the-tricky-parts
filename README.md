@@ -1,1 +1,1 @@
-# javascript-the-tricky-parts
+# JavaScript: The Tricky Parts
